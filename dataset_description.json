@@ -4,7 +4,14 @@
     "HEDVersion": "8.3.0",
     "Description": "U01 Lein Patch-seq data upload (Q2 2023)",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Mei, Nicholas",
+        "Lee, Brian",
+        "Kalmbach, Brian",
+        "Chartrand, Tom",
+        "Dalley, Rachel",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
